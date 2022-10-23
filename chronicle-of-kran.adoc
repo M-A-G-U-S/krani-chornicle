@@ -37,23 +37,27 @@ TRANSLATED As the below narrative will illustrate: they are worse than those...
 END PARAGRAPH
 Raoul Renier
 
-KRÁNI KRÓNIKA
+ORIGINAL Kráni Krónika
 
-Lo and behold,
+TRANSLATED Chronicla of Krán
 
-Nézd, íme itt van ő, akit már gyermekkorában oltárom papjává fogadtam. Ő az, aki kedvencem lett.
-Félrevezettem és elámítottam őt, elloptam az égtől fiatal szívét - a magam számára. Én tettem őt bálványimádóvá, én tettem, hogy epedő vágyakozással imádja a férgeket, a sír férgeit odalent. Szent lett számára
-a sír; édes a sötétje; szent a rothadás a mélyén. Édes, drága nővérem, Sóhajok Anyja, neked neveltem ezt
-az ifjú bálványimádót. Szorítsd hát a szívedre, s te neveld tovább rettenetes nővérünk szolgálatára. Te
-pedig, romlást hozó testvére, te, aki csábítasz s gyűlölködsz, vedd magadhoz őt középső nővérünktől.
-Hatalmad pálcáját nyugtasd fején. Ne engedj asszonyt soha közelébe, ne hagyd, hogy női gyengédség
-enyhítse körülötte a sötétet. Űzd el zsenge reményeit, hervaszd el számára a részvétet, a szerelmet,
-szárítsd ki könnyei forrását, sújtsd őt olyan átokkal, amilyennel csak te sújthatod. Így égjen ki belőle
-minden salak, így láthassa majd meg, ami nem arra való, hogy lássák, iszonyatos látványokban legyen
-része, titkokban, melyekről nem ejthet szót a száj. Hadd ismerjen meg ősi igazságokat, szomorú
-igazságokat, hatalmas igazságokat, félelmetes igazságokat. Hadd legyen még halála előtt része a
-feltámadásban. Így teljesítsük Istentől kapott feladatunkat. Gyötörjük szívét szüntelenül, hogy lehetőségeinek legvégső határáig csigázzuk szellemét.
+ORIGINAL Nézd, íme itt van ő, akit már gyermekkorában oltárom papjává fogadtam. Ő az, aki kedvencem lett.  Félrevezettem és elámítottam őt, elloptam az égtől fiatal szívét - a magam számára. Én tettem őt bálványimádóvá, én tettem, hogy epedő vágyakozással imádja a férgeket, a sír férgeit odalent. Szent lett számára a sír; édes a sötétje; szent a rothadás a mélyén. Édes, drága nővérem, Sóhajok Anyja, neked neveltem ezt az ifjú bálványimádót. Szorítsd hát a szívedre, s te neveld tovább rettenetes nővérünk szolgálatára. Te pedig, romlást hozó testvére, te, aki csábítasz s gyűlölködsz, vedd magadhoz őt középső nővérünktől.  Hatalmad pálcáját nyugtasd fején. Ne engedj asszonyt soha közelébe, ne hagyd, hogy női gyengédség enyhítse körülötte a sötétet. Űzd el zsenge reményeit, hervaszd el számára a részvétet, a szerelmet, szárítsd ki könnyei forrását, sújtsd őt olyan átokkal, amilyennel csak te sújthatod. Így égjen ki belőle minden salak, így láthassa majd meg, ami nem arra való, hogy lássák, iszonyatos látványokban legyen része, titkokban, melyekről nem ejthet szót a száj. Hadd ismerjen meg ősi igazságokat, szomorú igazságokat, hatalmas igazságokat, félelmetes igazságokat. Hadd legyen még halála előtt része a feltámadásban. Így teljesítsük Istentől kapott feladatunkat. Gyötörjük szívét szüntelenül, hogy lehetőségeinek legvégső határáig csigázzuk szellemét.
+
 Thomas de Quincey: Suspiria de profundis
+
+TRANSLATED "Lo! here is he, whom in childhood I dedicated to my altars. This is he that once I made my darling. Him I led astray, him I beguiled, and from heaven I stole away his young heart to mine. Through me did he become idolatrous; and through me it was, by languishing desires, that he worshipped the worm, and prayed to the wormy grave. Holy was the grave to him; lovely was its darkness; saintly its corruption. Him, this young idolator, I have seasoned for thee, dear gentle Sister of Sighs! Do thou take him now to thy heart, and season him for our dreadful sister. And thou,"−turning to the Mater Tenebrarum, she said,−"wicked sister, that temptest and hatest, do thou take him from her. See that thy sceptre lie heavy on his head. Suffer not woman and her tenderness to sit near him in his darkness. Banish the frailties of hope, wither the relenting of love, scorch the fountains of tears, curse him as only thou canst curse. So shall he be accomplished in the furnace, so shall he see the things that ought not to be seen, sights that are abominable, and secrets that are unutterable. So shall he read elder truths, sad truths, grand truths, fearful truths. So shall he rise again before he dies. And so shall our commission be accomplished which from God we had,−to plague his heart until we had unfolded the capacities of his spirit."
+
+Thomas de Quincey: Suspiria de profundis
+
+QUESTION "−" <- What is this characther? Vim's `ga` command says
+```text
+<−> 8722, Hex 2212, Oct 21022, Digr -2
+```
+but I also would like to know what is its literary purpose, and how to use it.
+
+NOTE Well, the "original" is actually the Hungarian translation of the English original, and the "translated" version is copied verbatim from the book. https://en.wikipedia.org/wiki/Suspiria_de_Profundis
+
+
 Hideg szél süvített a láthatáron feketéllő bércek felől, ólomszín fellegeket kergetett az alacsony
 égbolton, s hűvösen szemerkélő esővel terítette be a rendház kőcsupasz udvarát. Vyergas egymaga állt a
 hatszögletűre csiszolt bazaltlapokon, tekintete a roppant kapuszárnyakat egybereteszelő gerendavason
