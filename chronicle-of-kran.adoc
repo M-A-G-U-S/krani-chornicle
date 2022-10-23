@@ -1,11 +1,13 @@
 ORIGINAL Sokféle hazug és téves szóbeszéd járja Ynev emberlakta vidékein a kráni fejvadász-klánokról.  Egyesek vérivó szörnyeknek vélik őket, akik emberi mivoltuk utolsó maradványait is rég maguk mögött hagyták már; mások azt hiszik róluk, csupa szoborszép, atlétatermetű harcost számlálnak, akik csupán megszokásból gonoszak, mert ezt diktálják hazájuk hagyományai. 
 
-TRANSLATED Numerous mendacious and mistaken rumours abound around Kran's headhunter clans all over human-settled lands of Ynev. Some envisage blood-guzzling monsters who long cast the last shred of their humanity; others believe them to be statuesque, athletically built warriors who are only evil out of habit, as dictated by the customs of their homeland.
+TRANSLATED Numerous mendacious and mistaken rumours abound around Kran's headhunter clans all over the human-settled lands of Ynev. Some envisage blood-guzzling monsters who long cast the last shred of their humanity; others believe them to be statuesque, athletically built warriors who are only evil out of habit, as dictated by the customs of their homeland.
 custom
 
 NOTE Used "blood-guzzling" instead of "bloodthristy" because it is closer to the meaning of the Hungarian original that literally means "blood-drinker" (and not trying to say "aggressive", "barbaric", etc.). 
 
 NOTE Used "athletically built" instead of the probably more proper "athletic" because it is closer the Hungarian term used here, and also to emphasize that how little is known about Kran and its inhabitants (and customs, etc.) so it may be believed that some are results of experiments or other practices (thus, some are being bred or made).
+
+They are surmised of having nothing else to do but to meddle with 
 
 Rebesgetik, egyéb dolguk sincsen, mint hogy folyton beleártsák magukat a külvilágban folyó eseményekbe, kalandozókkal és koronás főkkel perlekedjenek, kifürkészhetetlen uraik akaratát követve. Mindezen következtetéseket általában a hírhedt Anat-Akhan történetéből vonják le, amely nevezetes árulását megelőzően a jelentéktelenebb határvidéki klánok közé tartozott.  Valójában a kráni fejvadászokat roppant kevéssé érdekli mindaz, ami a birodalom határain kívül történik, és szerfelett ritka közöttük az olyan, aki külvilági mércével mérve szépnek volna nevezhető. Ami pedig azt a vádat illeti, hogy vérivó szörnyetegek lennének - nos, nem azok.  Amint az az alábbi elbeszélésből is kiderül: rosszabbak annál...
 Roul Renier
