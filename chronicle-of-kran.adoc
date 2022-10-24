@@ -4,9 +4,9 @@ ORIGINAL Sokféle hazug és téves szóbeszéd járja Ynev emberlakta vidékein 
 
 TRANSLATED Numerous mendacious and mistaken rumours abound around Krán's headhunter clans all over the human-settled lands of Ynev. Some envisage blood-guzzling monsters who long cast the last shred of their humanity; others believe them to be statuesque, athletically built warriors who are only evil out of habit, as dictated by the customs of their homeland.
 
-NOTE Used "blood-guzzling" instead of "bloodthristy" because it is closer to the meaning of the Hungarian original that literally means "blood-drinker" (and not trying to say "aggressive", "barbaric", etc.).
+NOTE Used "blood-guzzling" instead of "bloodthristy", because it is closer to the meaning of the Hungarian original that literally means "blood-drinker" (and not trying to say "aggressive", "barbaric", etc.).
 
-NOTE Used "athletically built" instead of the probably more proper "athletic" because it is closer the Hungarian term used here, and also to emphasize that how little is known about Krán and its inhabitants (and customs, etc.) so it may be believed that some are results of experiments or other practices (thus, some are being bred or made).
+NOTE Used "athletically built" instead of the probably more proper "athletic", because it is closer to the Hungarian term used here, and also to emphasize how little is known about Krán and its inhabitants (and customs, etc.). It may also be believed that some clan members are the result of experiments or other practices (i.e., some are being bred or made).
 
 ORIGINAL Rebesgetik, egyéb dolguk sincsen, mint hogy folyton beleártsák magukat a külvilágban folyó eseményekbe, kalandozókkal és koronás főkkel perlekedjenek, kifürkészhetetlen uraik akaratát követve.
 
