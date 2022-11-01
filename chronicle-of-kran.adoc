@@ -65,7 +65,7 @@ but I also would like to know what its literary purpose is, and how to use it pr
 
 START_PARAGRAPH
 
-ORIGINAL Hideg szél süvített a láthatáron feketéllő bércek felől, ólomszín fellegeket kergetett az alacsony égbolton, s hűvösen szemerkélő esővel terítette be a rendház kőcsupasz udvarát. Vyergas egymaga állt a hatszögletűre csiszolt bazaltlapokon, tekintete a roppant kapuszárnyakat egybereteszelő gerendavason pihent. Byzonbőr csizmáján és durva daróctunikáján kívül csupán egy dísztelen, sötét köpönyeget viselt; a csuklya árnyékadó szövetét mélyen a homlokába húzta. A körülötte szitáló nedvesség átjárta öltözékét, nyirkos ujjakkal cirógatta végig a testét, egész a csontjáig hatolt. A rúnákkal vésett ezüstpók, mely nyolc vékony lábnyúlvánnyal gyökerezett üres szemgödrében, hidegnek és halottnak érzett; nyilalló sajgás állott tőle a bal arcába. Lehunyta jobb szemét - a másikat, az épet -, és mélyet lélegzett a csípős, tufaszagú levegőből. Vendégeink a kapu előtt várakoznak, vert visszhangot elméjében a comtur szava.
+ORIGINAL Hideg szél süvített a láthatáron feketéllő bércek felől, ólomszín fellegeket kergetett az alacsony égbolton, s hűvösen szemerkélő esővel terítette be a rendház kőcsupasz udvarát.
 
 TRANSLATION Cold wind skirled from the tenebrous crags on the horizon, rushing leaden clouds over the low-hanging heavens and covering the stone-bare courtyard of the chapterhouse with frigid drizzle.
 
@@ -76,6 +76,10 @@ NOTE (low-hanging heavens) This is a mirror translation of "alacsony égbolt", m
 NOTE (frigid) Simply didn't like to see "chilly" here, and all the other synonyms sounded less menacing.
 
 NOTE (stone-bare) No such English adjective. It's a mirror-translation of "kőcsupasz", but I liked how it conveyed the empty (except for Vyergas), unwelcoming, stone-covered yard with no vegetation other than whatever could find a grip in the cracks.
+
+ORIGINAL Vyergas egymaga állt a hatszögletűre csiszolt bazaltlapokon, tekintete a roppant kapuszárnyakat egybereteszelő gerendavason pihent. Byzonbőr csizmáján és durva daróctunikáján kívül csupán egy dísztelen, sötét köpönyeget viselt; a csuklya árnyékadó szövetét mélyen a homlokába húzta. A körülötte szitáló nedvesség átjárta öltözékét, nyirkos ujjakkal cirógatta végig a testét, egész a csontjáig hatolt. A rúnákkal vésett ezüstpók, mely nyolc vékony lábnyúlvánnyal gyökerezett üres szemgödrében, hidegnek és halottnak érzett; nyilalló sajgás állott tőle a bal arcába. Lehunyta jobb szemét - a másikat, az épet -, és mélyet lélegzett a csípős, tufaszagú levegőből. Vendégeink a kapu előtt várakoznak, vert visszhangot elméjében a comtur szava.
+
+TRANSLATION 
 
 END_PARAGRAPH
 
