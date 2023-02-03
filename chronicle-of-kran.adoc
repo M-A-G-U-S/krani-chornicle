@@ -82,7 +82,13 @@ NOTE (stone-bare) No such English adjective. It's a mirror-translation of "kőcs
 
 ORIGINAL Vyergas egymaga állt a hatszögletűre csiszolt bazaltlapokon, tekintete a roppant kapuszárnyakat egybereteszelő gerendavason pihent. Byzonbőr csizmáján és durva daróctunikáján kívül csupán egy dísztelen, sötét köpönyeget viselt; a csuklya árnyékadó szövetét mélyen a homlokába húzta. A körülötte szitáló nedvesség átjárta öltözékét, nyirkos ujjakkal cirógatta végig a testét, egész a csontjáig hatolt. A rúnákkal vésett ezüstpók, mely nyolc vékony lábnyúlvánnyal gyökerezett üres szemgödrében, hidegnek és halottnak érzett; nyilalló sajgás állott tőle a bal arcába. Lehunyta jobb szemét - a másikat, az épet -, és mélyet lélegzett a csípős, tufaszagú levegőből. Vendégeink a kapu előtt várakoznak, vert visszhangot elméjében a comtur szava.
 
-TRANSLATION
+TRANSLATION Vyergas stood alone on the hexagon-cut basalt slabs, resting his eyes on the iron beam latched across the immense gates.
+
+NOTE The phrase "latched across" may not be used proper, albeit sounds cool.
+
+NOTE (beam) Supposedly, the correct term is ["draw bar"](https://forum.wordreference.com/threads/wooden-bolt.2594632/#post-13083864), but there is [a solid architectural difference between "bar" and "beam"](https://www.quora.com/What-is-the-difference-between-a-beam-and-a-bar) (see [this image](https://i.ytimg.com/vi/jURuwHdliYs/mqdefault.jpg) for help) - and "beam" sounded more awesome.
+
+unadorned
 
 END_PARAGRAPH
 
