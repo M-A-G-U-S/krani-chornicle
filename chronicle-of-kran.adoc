@@ -3,15 +3,18 @@ START_PARAGRAPH
 
 ORIGINAL Sokféle hazug és téves szóbeszéd járja Ynev emberlakta vidékein a kráni fejvadász-klánokról.  Egyesek vérivó szörnyeknek vélik őket, akik emberi mivoltuk utolsó maradványait is rég maguk mögött hagyták már; mások azt hiszik róluk, csupa szoborszép, atlétatermetű harcost számlálnak, akik csupán megszokásból gonoszak, mert ezt diktálják hazájuk hagyományai.
 
-TRANSLATION Numerous mendacious and mistaken rumours abound around Krán's headhunter clans all over the human-settled lands of Ynev. Some envisage blood-guzzling monsters who long cast the last shred of their humanity; others believe them to be statuesque, athletically built warriors who are only evil out of habit, as dictated by the customs of their homeland.
+TRANSLATION Numerous mendacious and mistaken rumours abound around Krán's headhunter clans all over the human-settled lands of Ynev. Some envisage blood-guzzling monsters who long cast the last shred of their humanity; others believe them to be statuesque warriors who are evil mostly out of habit, as dictated by the customs of their homeland.
 
 NOTE Used "blood-guzzling" instead of "bloodthristy", because it is closer to the meaning of the Hungarian original that literally means "blood-drinker" (and not trying to say "aggressive", "barbaric", etc.).
 
-NOTE Used "athletically built" instead of the probably more proper "athletic", because it is closer to the Hungarian term used here, and also to emphasize how little is known about Krán and its inhabitants (and customs, etc.). It may also be believed that some clan members are the result of experiments or other practices (i.e., some are being bred or made). SUBNOTE: something along the lines of "pleasing asthetics" or "towering" would be better than the mirror-translation committed.
+NOTE Used "athletically built" instead of the probably more proper "athletic", because it is closer to the Hungarian term used here, and also to emphasize how little is known about Krán and its inhabitants (and customs, etc.). It may also be believed that some clan members are the result of experiments or other practices (i.e., some are being bred or made).
+SUBNOTE: Decided to omit the "athletically-built" part; it sounds good in Hungarian, but it sounded "too crowded" in English.
 
 ORIGINAL Rebesgetik, egyéb dolguk sincsen, mint hogy folyton beleártsák magukat a külvilágban folyó eseményekbe, kalandozókkal és koronás főkkel perlekedjenek, kifürkészhetetlen uraik akaratát követve.
 
-TRANSLATION They are surmised of having nothing else to do but to meddle with the affairs of the outside world, to squabble with adventurers and crowned heads, in accordance with the wills of their inscrutable masters.
+TRANSLATION They are bruited of having nothing else to do but to meddle with the affairs of the outside world, to squabble with adventurers and crowned heads, all in accordance with the wills of their inscrutable masters.
+
+NOTE The Hungarian "rebesget" is very close in meaning to "rumor", and but it is kind of archaic so decided to use "bruit". (https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=2246)
 
 ORIGINAL Mindezen következtetéseket általában a hírhedt Anat-Akhan történetéből vonják le, amely nevezetes árulását megelőzően a jelentéktelenebb határvidéki klánok közé tartozott.
 
@@ -33,7 +36,7 @@ START_PARAGRAPH
 
 ORIGINAL Amint az az alábbi elbeszélésből is kiderül: rosszabbak annál...
 
-TRANSLATION As the below narrative will illustrate: they are worse than those...
+TRANSLATION As the below account will illustrate: they are worse...
 
 END_PARAGRAPH
 END_SECTION
