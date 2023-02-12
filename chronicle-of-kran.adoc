@@ -1,53 +1,52 @@
-START_SECTION
-START_PARAGRAPH
+:fn-kran: pass:c,q[footnote:kran[[#kran-as-is]#Decided to leave the name of Krán as is# with the Hungarian https://en.wikipedia.org/wiki/%C3%81["_á_"] sound (i.e., "_a_" with an https://en.wikipedia.org/wiki/Acute_accent[acute accent]) instead of using a variant closer to English (such as "_Kraan_"); it sounds more exotic and can't see what could be gained from changing it.]]
 
-ORIGINAL Sokféle hazug és téves szóbeszéd járja Ynev emberlakta vidékein a kráni fejvadász-klánokról.  Egyesek vérivó szörnyeknek vélik őket, akik emberi mivoltuk utolsó maradványait is rég maguk mögött hagyták már; mások azt hiszik róluk, csupa szoborszép, atlétatermetű harcost számlálnak, akik csupán megszokásból gonoszak, mert ezt diktálják hazájuk hagyományai.
+:fn-kran-reuse: footnote:kran[]
 
-TRANSLATION Numerous mendacious and mistaken rumours abound around Krán's headhunter clans all over the human-settled lands of Ynev. Some envisage blood-guzzling monsters who long cast the last shred of their humanity; others believe them to be statuesque warriors who are evil mostly out of habit, as dictated by the customs of their homeland.
+:fn-krani: pass:c,q[footnote:[The first word of the original title, "_Kráni Krónika_" is a https://en.wikipedia.org/wiki/Demonym[demonym]; in Hungarian, the "_-i_" suffix is used to create such an adjective from the name of a place, and, coincidentally, https://en.wikipedia.org/wiki/Demonym#Suffixation[this suffix is also available in English]. This fact and my decision in <<kran-as-is,the footnote above>>  made it possible to keep using the Hungarian original.]]
 
-NOTE Used "blood-guzzling" instead of "bloodthristy", because it is closer to the meaning of the Hungarian original that literally means "blood-drinker" (and not trying to say "aggressive", "barbaric", etc.).
+:fn-krani-kronika: pass:c,q[footnote:[The literal translation of the original title, "_Kráni Krónika_", is "_A Chronicle from Krán_" - in this case, that is, because the "_-i_" "modifier" at the end of "_Krán_" can mean "_from Krán_" or "_of Kran_", depending of the context. Here, it is about a fictional historical account of a conflict between two parties *within the borders* of Krán, and not about the empire of Krán itself.]]
 
-NOTE Used "athletically built" instead of the probably more proper "athletic", because it is closer to the Hungarian term used here, and also to emphasize how little is known about Krán and its inhabitants (and customs, etc.). It may also be believed that some clan members are the result of experiments or other practices (i.e., some are being bred or made).
-SUBNOTE: Decided to omit the "athletically-built" part; it sounds good in Hungarian, but it sounded "too crowded" in English.
-
-ORIGINAL Rebesgetik, egyéb dolguk sincsen, mint hogy folyton beleártsák magukat a külvilágban folyó eseményekbe, kalandozókkal és koronás főkkel perlekedjenek, kifürkészhetetlen uraik akaratát követve.
-
-TRANSLATION They are bruited of having nothing else to do but to meddle with the affairs of the outside world, to squabble with adventurers and crowned heads, all in accordance with the wills of their inscrutable masters.
-
-NOTE The Hungarian "rebesget" is very close in meaning to "rumor", and but it is kind of archaic so decided to use "bruit". (https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=2246)
-
-ORIGINAL Mindezen következtetéseket általában a hírhedt Anat-Akhan történetéből vonják le, amely nevezetes árulását megelőzően a jelentéktelenebb határvidéki klánok közé tartozott.
-
-TRANSLATION The aforementioned conclusions are mostly drawn from the history of the notorious Anat-Akhan, one of the more insignificant clans of the borderlands before their remarkable act of treason.
-
-NOTE Chose "remarkable" over "notable" and "momentous". "Notable" sounds more like "worthy of mention", but this doesn't give too much credit (especially if you know the true nature of Krán). "Momentous" however alludes to a nigh fundamentally significant event, which would be overselling it.
-
-END_PARAGRAPH
-
-START_PARAGRAPH
-
-ORIGINAL Valójában a kráni fejvadászokat roppant kevéssé érdekli mindaz, ami a birodalom határain kívül történik, és szerfelett ritka közöttük az olyan, aki külvilági mércével mérve szépnek volna nevezhető. Ami pedig azt a vádat illeti, hogy vérivó szörnyetegek lennének - nos, nem azok.
-
-TRANSLATION In truth, events beyond the realms of the empire are of little interest to the headhunters of Krán, and hardly any of them can be labeled as attractive by the standards of the outside world. As for the accusation of being beasts thriving on blood - well, they aren't.
-
-END_PARAGRAPH
-
-START_PARAGRAPH
-
-ORIGINAL Amint az az alábbi elbeszélésből is kiderül: rosszabbak annál...
-
-TRANSLATION As the below account will illustrate: they are worse...
-
-END_PARAGRAPH
-END_SECTION
-
-START_SECTION
-
+[[fn-kran,fn-kran]]
+= Kráni{fn-kran}{fn-krani} Chronicle{fn-krani-kronika}
 Raoul Renier
 
-ORIGINAL Kráni Krónika
+// The git commit log should suffice for `revhistory` for now (https://tdg.docbook.org/tdg/5.2/revhistory.html)
 
-TRANSLATION Chronicle from Krán
+// TODO https://stackoverflow.com/questions/75406048/how-to-mark-up-an-author-with-their-pen-name-pseudonym-in-docbook-5
+
+// Sokféle hazug és téves szóbeszéd járja Ynev emberlakta vidékein a kráni fejvadász-klánokról.  Egyesek vérivó szörnyeknek vélik őket, akik emberi mivoltuk utolsó maradványait is rég maguk mögött hagyták már; mások azt hiszik róluk, csupa szoborszép, atlétatermetű harcost számlálnak, akik csupán megszokásból gonoszak, mert ezt diktálják hazájuk hagyományai. Rebesgetik, egyéb dolguk sincsen, mint hogy folyton beleártsák magukat a külvilágban folyó eseményekbe, kalandozókkal és koronás főkkel perlekedjenek, kifürkészhetetlen uraik akaratát követve. Mindezen következtetéseket általában a hírhedt Anat-Akhan történetéből vonják le, amely nevezetes árulását megelőzően a jelentéktelenebb határvidéki klánok közé tartozott.
+
+:fn-verivo: pass:c,q[footnote:[Used "_blood-guzzling_" instead of "_bloodthristy_", because it is closer to the meaning of the Hungarian original that literally means "_blood-drinker_".]]
+
+:fn-atleta: pass:c,q[footnote:[The literal translation of the original text's "_szoborszép, atlétatermetű harcos_" phrase is "_athletically-built, statue-beautiful warriors_". This could have been massaged to sound more natural, but I deemed the results too "crowded".]]
+
+:fn-rebesget: pass:c,q[footnote:[The Hungarian "_rebesget_" is very close in meaning to "_rumor_", but it is kind of archaic so decided to use "_bruit_". (https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=2246[See some of its uses by Shakespeare.])]]
+
+:fn-nevezetes: pass:c,q[footnote:[Chose "_remarkable_" over "_notable_" and "_momentous_". "_Notable_" sounds more like "_worthy of mention_", but this doesn't give too much credit for this act (especially if you know the true nature of Krán). "_Momentous_" however alludes to a nigh fundamentally significant event, which would be overselling it.]]
+
+// TODO Setting the paragraphs below in italics until the epigraph is a hack; this is an introduction that should be wrapped in a semantically meaningful element (such as `<preface role="introduction">`; valid only for documents with document type "book", but not sure what to use for `<article>`s...), and define representation rules for that element (e.g., via CSS).
+
+[#introduction]
+_Numerous mendacious and mistaken rumours abound around Krán{fn-kran-reuse}'s headhunter clans all over the human-settled lands of Ynev. Some envisage blood-guzzling{fn-verivo} monsters who long cast the last shred of their humanity; others believe them to be statuesque warriors{fn-atleta} who are evil mostly out of habit, as dictated by the customs of their homeland. They are bruited{fn-rebesget} of having nothing else to do but to meddle with the affairs of the outside world, to squabble with adventurers and crowned heads, all in accordance with the wills of their inscrutable masters. The aforementioned conclusions are mostly drawn from the history of the notorious Anat-Akhan, one of the more insignificant clans of the borderlands before their remarkable{fn-nevezetes} act of treason._
+
+// Valójában a kráni fejvadászokat roppant kevéssé érdekli mindaz, ami a birodalom határain kívül történik, és szerfelett ritka közöttük az olyan, aki külvilági mércével mérve szépnek volna nevezhető. Ami pedig azt a vádat illeti, hogy vérivó szörnyetegek lennének - nos, nem azok.
+
+_In truth, events beyond the realms of the empire are of little interest to the headhunters of Krán{fn-kran-reuse}, and hardly any of them can be labeled as attractive by the standards of the outside world. As for the accusation of being beasts thriving on blood - well, they aren't._
+
+// Amint az az alábbi elbeszélésből is kiderül: rosszabbak annál...
+
+_As the account below will illustrate: they are worse..._
+
+'''
+
+[.epigraph]
+"Lo! here is he whom in childhood I dedicated to my altars. This is he that once I made my darling. Him I led astray, him I beguiled; and from heaven I stole away his young heart to mine. Through me did he become idolatrous; and through me it was, by languishing desires, that he worshipped the worm, and prayed to the wormy grave. Holy was the grave to him; lovely was its darkness; saintly its corruption. Him, this young idolater, I have seasoned for thee, dear gentle Sister of Sighs! Do thou take him now to thy heart, and season him for our dreadful sister. And thou,”⁠—turning to the Mater Tenebrarum, she said⁠—“wicked sister, that temptest and hatest, do thou take him from her. See that thy sceptre lie heavy on his head. Suffer not woman and her tenderness to sit near him in his darkness. Banish the frailties of hope; wither the relenting of love; scorch the fountains of tears; curse him as only thou canst curse. So shall he be accomplished in the furnace; so shall he see the things that ought not to be seen, sights that are abominable, and secrets that are unutterable. So shall he read elder truths, sad truths, grand truths, fearful truths. So shall he rise again before he dies. And so shall our commission be accomplished which from God we had⁠—to plague his heart until we had unfolded the capacities of his spirit."
+-- pass:q[<personname>Thomas de Quincey</personname>], https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis/text/single-page[Suspiria de Profundis]
+
+:fn-PLACEHOLDER: pass:c,q[footnote:[]]
+:fn-PLACEHOLDER: pass:c,q[footnote:[]]
+:fn-PLACEHOLDER: pass:c,q[footnote:[]]
+:fn-PLACEHOLDER: pass:c,q[footnote:[]]
 
 ORIGINAL Nézd, íme itt van ő, akit már gyermekkorában oltárom papjává fogadtam. Ő az, aki kedvencem lett.  Félrevezettem és elámítottam őt, elloptam az égtől fiatal szívét - a magam számára. Én tettem őt bálványimádóvá, én tettem, hogy epedő vágyakozással imádja a férgeket, a sír férgeit odalent. Szent lett számára a sír; édes a sötétje; szent a rothadás a mélyén. Édes, drága nővérem, Sóhajok Anyja, neked neveltem ezt az ifjú bálványimádót. Szorítsd hát a szívedre, s te neveld tovább rettenetes nővérünk szolgálatára. Te pedig, romlást hozó testvére, te, aki csábítasz s gyűlölködsz, vedd magadhoz őt középső nővérünktől.  Hatalmad pálcáját nyugtasd fején. Ne engedj asszonyt soha közelébe, ne hagyd, hogy női gyengédség enyhítse körülötte a sötétet. Űzd el zsenge reményeit, hervaszd el számára a részvétet, a szerelmet, szárítsd ki könnyei forrását, sújtsd őt olyan átokkal, amilyennel csak te sújthatod. Így égjen ki belőle minden salak, így láthassa majd meg, ami nem arra való, hogy lássák, iszonyatos látványokban legyen része, titkokban, melyekről nem ejthet szót a száj. Hadd ismerjen meg ősi igazságokat, szomorú igazságokat, hatalmas igazságokat, félelmetes igazságokat. Hadd legyen még halála előtt része a feltámadásban. Így teljesítsük Istentől kapott feladatunkat. Gyötörjük szívét szüntelenül, hogy lehetőségeinek legvégső határáig csigázzuk szellemét.
 
