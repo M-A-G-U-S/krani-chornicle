@@ -4,3 +4,5 @@ Available formats:
 + AsciiDoc ( -> [`krani-chronicle.adoc`](./krani-chronicle.adoc))
 + HTML ( -> https://m-a-g-u-s.github.io/krani-chornicle/)
 + DocBook ( -> [`docs/krani-chronicle.xml`](./docs/krani-chronicle.xml))
+
+[`germane_documents`](./germane_documents/) contains files related to this novella (however remotely).
