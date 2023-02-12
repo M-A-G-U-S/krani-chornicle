@@ -41,59 +41,45 @@ _As the account below will illustrate: they are worse..._
 
 '''
 
+// Nézd, íme itt van ő, akit már gyermekkorában oltárom papjává fogadtam. Ő az, aki kedvencem lett.  Félrevezettem és elámítottam őt, elloptam az égtől fiatal szívét - a magam számára. Én tettem őt bálványimádóvá, én tettem, hogy epedő vágyakozással imádja a férgeket, a sír férgeit odalent. Szent lett számára a sír; édes a sötétje; szent a rothadás a mélyén. Édes, drága nővérem, Sóhajok Anyja, neked neveltem ezt az ifjú bálványimádót. Szorítsd hát a szívedre, s te neveld tovább rettenetes nővérünk szolgálatára. Te pedig, romlást hozó testvére, te, aki csábítasz s gyűlölködsz, vedd magadhoz őt középső nővérünktől.  Hatalmad pálcáját nyugtasd fején. Ne engedj asszonyt soha közelébe, ne hagyd, hogy női gyengédség enyhítse körülötte a sötétet. Űzd el zsenge reményeit, hervaszd el számára a részvétet, a szerelmet, szárítsd ki könnyei forrását, sújtsd őt olyan átokkal, amilyennel csak te sújthatod. Így égjen ki belőle minden salak, így láthassa majd meg, ami nem arra való, hogy lássák, iszonyatos látványokban legyen része, titkokban, melyekről nem ejthet szót a száj. Hadd ismerjen meg ősi igazságokat, szomorú igazságokat, hatalmas igazságokat, félelmetes igazságokat. Hadd legyen még halála előtt része a feltámadásban. Így teljesítsük Istentől kapott feladatunkat. Gyötörjük szívét szüntelenül, hogy lehetőségeinek legvégső határáig csigázzuk szellemét.
+
 [.epigraph]
 "Lo! here is he whom in childhood I dedicated to my altars. This is he that once I made my darling. Him I led astray, him I beguiled; and from heaven I stole away his young heart to mine. Through me did he become idolatrous; and through me it was, by languishing desires, that he worshipped the worm, and prayed to the wormy grave. Holy was the grave to him; lovely was its darkness; saintly its corruption. Him, this young idolater, I have seasoned for thee, dear gentle Sister of Sighs! Do thou take him now to thy heart, and season him for our dreadful sister. And thou,”⁠—turning to the Mater Tenebrarum, she said⁠—“wicked sister, that temptest and hatest, do thou take him from her. See that thy sceptre lie heavy on his head. Suffer not woman and her tenderness to sit near him in his darkness. Banish the frailties of hope; wither the relenting of love; scorch the fountains of tears; curse him as only thou canst curse. So shall he be accomplished in the furnace; so shall he see the things that ought not to be seen, sights that are abominable, and secrets that are unutterable. So shall he read elder truths, sad truths, grand truths, fearful truths. So shall he rise again before he dies. And so shall our commission be accomplished which from God we had⁠—to plague his heart until we had unfolded the capacities of his spirit."
 -- pass:q[<personname>Thomas de Quincey</personname>], https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis/text/single-page[Suspiria de Profundis]
 
+// The backstory on the `pass` & `<personname>` stuff in the epigraph above:
+// https://asciidoc.zulipchat.com/#narrow/stream/335214-general/topic/.5Bdocbook.5D.20Wrap.20author.20in.20.3Cpersonname.3E.20in.20.3Cattribution.3E.20.3F/near/327325301
+
+'''
+
+:fn-skirl: pass:c,q[footnote:[This was the closest in meaning to "_süvít_", and even though it is usually translated using "howl", I think "skirl" fits better here. Another option was "scream", but it sounded too "cheap".]]
+
+:fn-leaden-clouds: pass:c,q[footnote:[A mirror translation of "_ólomszín fellegeket_", but still appropriate as this phrase is also frequently used in English.]]
+
+:fn-low-hanging: pass:c,q[footnote:[Another mirror translation, this time of "_alacsony égbolt_", and the justification is the same as for "_leaden clouds_" above.]]
+
+:fn-frigid: pass:c,q[footnote:[Simply didn't like how "_chilly_" in this sentence, and "_frigid_" seems to evoke the right feelings just before Vyergas is is introduced.]]
+
+:fn-stone-bare: pass:c,q[footnote:[No such English adjective. It's a mirror translation of "_kőcsupasz_", but I liked how it conveyed the empty (except for Vyergas), unwelcoming, stone-covered yard with no vegetation other than whatever could find a grip in the cracks.]]
+
+:fn-latched: pass:c,q[footnote:[The phrase "_latched across_" sounds cool, but it may not be proper English.]]
+
+:fn-beam: pass:c,q[footnote:[Supposedly, the correct term is https://forum.wordreference.com/threads/wooden-bolt.2594632/#post-13083864["draw bar"], but there is https://www.quora.com/What-is-the-difference-between-a-beam-and-a-bar[a solid architectural difference between "bar" and "beam"] (see https://i.ytimg.com/vi/jURuwHdliYs/mqdefault.jpg[this image] for help). Also, "_beam_" sounded more awesome.]]
+
 :fn-PLACEHOLDER: pass:c,q[footnote:[]]
 :fn-PLACEHOLDER: pass:c,q[footnote:[]]
 :fn-PLACEHOLDER: pass:c,q[footnote:[]]
 :fn-PLACEHOLDER: pass:c,q[footnote:[]]
+:fn-PLACEHOLDER: pass:c,q[footnote:[]]
+:fn-PLACEHOLDER: pass:c,q[footnote:[]]
 
-ORIGINAL Nézd, íme itt van ő, akit már gyermekkorában oltárom papjává fogadtam. Ő az, aki kedvencem lett.  Félrevezettem és elámítottam őt, elloptam az égtől fiatal szívét - a magam számára. Én tettem őt bálványimádóvá, én tettem, hogy epedő vágyakozással imádja a férgeket, a sír férgeit odalent. Szent lett számára a sír; édes a sötétje; szent a rothadás a mélyén. Édes, drága nővérem, Sóhajok Anyja, neked neveltem ezt az ifjú bálványimádót. Szorítsd hát a szívedre, s te neveld tovább rettenetes nővérünk szolgálatára. Te pedig, romlást hozó testvére, te, aki csábítasz s gyűlölködsz, vedd magadhoz őt középső nővérünktől.  Hatalmad pálcáját nyugtasd fején. Ne engedj asszonyt soha közelébe, ne hagyd, hogy női gyengédség enyhítse körülötte a sötétet. Űzd el zsenge reményeit, hervaszd el számára a részvétet, a szerelmet, szárítsd ki könnyei forrását, sújtsd őt olyan átokkal, amilyennel csak te sújthatod. Így égjen ki belőle minden salak, így láthassa majd meg, ami nem arra való, hogy lássák, iszonyatos látványokban legyen része, titkokban, melyekről nem ejthet szót a száj. Hadd ismerjen meg ősi igazságokat, szomorú igazságokat, hatalmas igazságokat, félelmetes igazságokat. Hadd legyen még halála előtt része a feltámadásban. Így teljesítsük Istentől kapott feladatunkat. Gyötörjük szívét szüntelenül, hogy lehetőségeinek legvégső határáig csigázzuk szellemét.
+// Hideg szél süvített a láthatáron feketéllő bércek felől, ólomszín fellegeket kergetett az alacsony égbolton, s hűvösen szemerkélő esővel terítette be a rendház kőcsupasz udvarát. Vyergas egymaga állt a hatszögletűre csiszolt bazaltlapokon, tekintete a roppant kapuszárnyakat egybereteszelő gerendavason pihent. Byzonbőr csizmáján és durva daróctunikáján kívül csupán egy dísztelen, sötét köpönyeget viselt; a csuklya árnyékadó szövetét mélyen a homlokába húzta. A körülötte szitáló nedvesség átjárta öltözékét, nyirkos ujjakkal cirógatta végig a testét, egész a csontjáig hatolt. A rúnákkal vésett ezüstpók, mely nyolc vékony lábnyúlvánnyal gyökerezett üres szemgödrében, hidegnek és halottnak érzett; nyilalló sajgás állott tőle a bal arcába. Lehunyta jobb szemét - a másikat, az épet -, és mélyet lélegzett a csípős, tufaszagú levegőből. Vendégeink a kapu előtt várakoznak, vert visszhangot elméjében a comtur szava.
 
-Thomas de Quincey: Suspiria de profundis
-
-TRANSLATION "Lo! here is he, whom in childhood I dedicated to my altars. This is he that once I made my darling. Him I led astray, him I beguiled, and from heaven I stole away his young heart to mine. Through me did he become idolatrous; and through me it was, by languishing desires, that he worshipped the worm, and prayed to the wormy grave. Holy was the grave to him; lovely was its darkness; saintly its corruption. Him, this young idolator, I have seasoned for thee, dear gentle Sister of Sighs! Do thou take him now to thy heart, and season him for our dreadful sister. And thou,"−turning to the Mater Tenebrarum, she said,−"wicked sister, that temptest and hatest, do thou take him from her. See that thy sceptre lie heavy on his head. Suffer not woman and her tenderness to sit near him in his darkness. Banish the frailties of hope, wither the relenting of love, scorch the fountains of tears, curse him as only thou canst curse. So shall he be accomplished in the furnace, so shall he see the things that ought not to be seen, sights that are abominable, and secrets that are unutterable. So shall he read elder truths, sad truths, grand truths, fearful truths. So shall he rise again before he dies. And so shall our commission be accomplished which from God we had,−to plague his heart until we had unfolded the capacities of his spirit."
-
-Thomas de Quincey: Suspiria de profundis
-
-NOTE Well, the "original" is actually the Hungarian translation of the English original, and the "translated" version is copied verbatim from the book. https://en.wikipedia.org/wiki/Suspiria_de_Profundis
-
-QUESTION "−" <- What is this characther? Vim's `ga` command says
-```text
-<−> 8722, Hex 2212, Oct 21022, Digr -2
-```
-but I also would like to know what its literary purpose is, and how to use it properly.
-
+Cold wind skirled{fn-skirl} from the tenebrous crags over the horizon, rushing leaden clouds{fn-leaden-clouds} through the low-hanging heavens{fn-low-hanging}, and spreading frigid{fn-frigid} drizzle over the stone-bare{fn-stone-bare} courtyard of the chapterhouse. Vyergas stood alone on the hexagon-cut basalt slabs, resting his eyes on the iron beam{fn-beam} latched across{fn-latched} the immense gates.
 
 START_PARAGRAPH
-
-ORIGINAL Hideg szél süvített a láthatáron feketéllő bércek felől, ólomszín fellegeket kergetett az alacsony égbolton, s hűvösen szemerkélő esővel terítette be a rendház kőcsupasz udvarát.
-
-TRANSLATION Cold wind skirled from the tenebrous crags on the horizon, rushing leaden clouds over the low-hanging heavens and covering the stone-bare courtyard of the chapterhouse with frigid drizzle.
-
-NOTE (skirl) This was the closest to "süvít", and even though it is usually translated using "howl", I think "skirl" fits better here. Another option was "scream", but it sounded too "cheap".
-
-NOTE (low-hanging heavens) This is a mirror translation of "alacsony égbolt", meaning that dark (usually storm) clouds seem ominously close to the observer. Surprisingly, this is a valid English phrase, used in many places. "Low-hanging" is usually used with "cloud(s)", but the latter needed to be mentioned already. (As for "leaden clouds", just do a quick google search, and the results will probably conform to your expectations to what the phrase evokes.)
-
-NOTE (frigid) Simply didn't like to see "chilly" here, and all the other synonyms sounded less menacing.
-
-NOTE (stone-bare) No such English adjective. It's a mirror-translation of "kőcsupasz", but I liked how it conveyed the empty (except for Vyergas), unwelcoming, stone-covered yard with no vegetation other than whatever could find a grip in the cracks.
-
-ORIGINAL Vyergas egymaga állt a hatszögletűre csiszolt bazaltlapokon, tekintete a roppant kapuszárnyakat egybereteszelő gerendavason pihent. Byzonbőr csizmáján és durva daróctunikáján kívül csupán egy dísztelen, sötét köpönyeget viselt; a csuklya árnyékadó szövetét mélyen a homlokába húzta. A körülötte szitáló nedvesség átjárta öltözékét, nyirkos ujjakkal cirógatta végig a testét, egész a csontjáig hatolt. A rúnákkal vésett ezüstpók, mely nyolc vékony lábnyúlvánnyal gyökerezett üres szemgödrében, hidegnek és halottnak érzett; nyilalló sajgás állott tőle a bal arcába. Lehunyta jobb szemét - a másikat, az épet -, és mélyet lélegzett a csípős, tufaszagú levegőből. Vendégeink a kapu előtt várakoznak, vert visszhangot elméjében a comtur szava.
-
-TRANSLATION Vyergas stood alone on the hexagon-cut basalt slabs, resting his eyes on the iron beam latched across the immense gates.
-
-NOTE The phrase "latched across" may not be used proper, albeit sounds cool.
-
-NOTE (beam) Supposedly, the correct term is ["draw bar"](https://forum.wordreference.com/threads/wooden-bolt.2594632/#post-13083864), but there is [a solid architectural difference between "bar" and "beam"](https://www.quora.com/What-is-the-difference-between-a-beam-and-a-bar) (see [this image](https://i.ytimg.com/vi/jURuwHdliYs/mqdefault.jpg) for help) - and "beam" sounded more awesome.
 
 unadorned
-
-END_PARAGRAPH
-
-START_PARAGRAPH
 
 Van idejük. Várhatnak.
 
