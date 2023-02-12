@@ -6,3 +6,8 @@ Available formats:
 + DocBook ( -> [`docs/krani-chronicle.xml`](./docs/krani-chronicle.xml))
 
 [`germane_documents`](./germane_documents/) contains files related to this novella (however remotely).
+
+[`asciidoctor`](https://docs.asciidoctor.org/asciidoctor/latest/cli/man1/asciidoctor/) commands to generate HTML and DocBook:
+
++ `asciidoctor -b docbook -D docs/ krani-chronicle.adoc` 
++ `asciidoctor -b html -o docs/index.html krani-chronicle.adoc`

@@ -10,6 +10,8 @@
 = Kráni{fn-kran}{fn-krani} Chronicle{fn-krani-kronika}
 Raoul Renier
 
+NOTE: This document is also rendered in https://m-a-g-u-s.github.io/krani-chornicle/[HTML].
+
 // The git commit log should suffice for `revhistory` for now (https://tdg.docbook.org/tdg/5.2/revhistory.html)
 
 // TODO https://stackoverflow.com/questions/75406048/how-to-mark-up-an-author-with-their-pen-name-pseudonym-in-docbook-5
