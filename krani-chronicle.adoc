@@ -9,6 +9,10 @@
 [[fn-kran,fn-kran]]
 = Kráni{fn-kran}{fn-krani} Chronicle{fn-krani-kronika}
 Raoul Renier
+:reproducible:
+:revdate: Last Updated: February 13, 2023 |  18:43:41
+
+// :r !date '+\%B \%d, \%Y |  \%H:\%M:\%S'
 
 NOTE: This document is also rendered in https://m-a-g-u-s.github.io/krani-chornicle/[HTML].
 
