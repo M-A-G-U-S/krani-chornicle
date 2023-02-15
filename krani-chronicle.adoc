@@ -4,11 +4,16 @@
 
 :fn-krani: pass:c,q[footnote:[The first word of the original title, "_Kráni Krónika_" is a https://en.wikipedia.org/wiki/Demonym[demonym]; in Hungarian, the "_-i_" suffix is used to create such an adjective from the name of a place, and, coincidentally, https://en.wikipedia.org/wiki/Demonym#Suffixation[this suffix is also available in English]. This fact and my decision in <<kran-as-is,the footnote above>>  made it possible to keep using the Hungarian original.]]
 
-:fn-krani-kronika: pass:c,q[footnote:[The literal translation of the original title, "_Kráni Krónika_", is "_A Chronicle from Krán_" - in this case, that is, because the "_-i_" "modifier" at the end of "_Krán_" can mean "_from Krán_" or "_of Kran_", depending of the context. Here, it is about a fictional historical account of a conflict between two parties *within the borders* of Krán, and not about the empire of Krán itself.]]
+:fn-krani-kronika: pass:m,q[footnote:[The literal translation of the original title, "_Kráni Krónika_", is "_A Chronicle from Krán_" - in this case, that is, because the "_-i_" "modifier" at the end of "_Krán_" can mean "_from Krán_" or "_of Kran_", depending on the context. Here, it is about a fictional historical account of a conflict between two parties *within the borders* of Krán, and not about the empire of Krán itself.]]
+
+// :fn-pseudonym: pass:c,q[footnote:["_Raoul Renier_" is the pseudonym of *Zsolt Kornya*, Hungarian writer and literary translator. (https://hu.wikipedia.org/wiki/Kornya_Zsolt[His wikipedia page] in Hungarian.)]]
 
 [[fn-kran,fn-kran]]
 = Kráni{fn-kran}{fn-krani} Chronicle{fn-krani-kronika}
 Raoul Renier
+// NOTE: Comment from AsciiDoc creator: "footnotes in document attributes is not a valid use case".
+// It should work with workarounds and/or with custom converter(s), but it's just not worth it for now.
+//:author: Raoul Renier{fn-pseudonym}
 :reproducible:
 :revdate: Last Updated: February 13, 2023 |  18:43:41
 
